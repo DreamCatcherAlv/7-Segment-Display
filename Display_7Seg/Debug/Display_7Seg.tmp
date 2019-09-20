@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.43</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Studio 5.0\avrassembler\include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Studio 5.0\avrassembler\include\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Debug/Display_7Seg.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Debug/Display_7Seg.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Debug/Display_7Seg.map</FILE>
+  <FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Debug/Display_7Seg.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Start><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>10</LINE></Start>
+  <Programa><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>26</LINE></Programa>
+  <Numero9><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>167</LINE></Numero9>
+  <Retardo><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>173</LINE></Retardo>
+  <Numero8><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>161</LINE></Numero8>
+  <Numero7><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>155</LINE></Numero7>
+  <Numero6><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>149</LINE></Numero6>
+  <Numero5><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>143</LINE></Numero5>
+  <Numero4><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>137</LINE></Numero4>
+  <Numero3><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>132</LINE></Numero3>
+  <Numero2><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>126</LINE></Numero2>
+  <Numero1><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>120</LINE></Numero1>
+  <Numero0><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>114</LINE></Numero0>
+  <NoNumb><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>107</LINE></NoNumb>
+  <bucle1><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>176</LINE></bucle1>
+  <bucle2><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>180</LINE></bucle2>
+  <bucle3><FILE>C:\Users\YO\Desktop\TFG\Display_7Seg\Display_7Seg\Display_7Seg.asm</FILE><LINE>184</LINE></bucle3>
+ </LABELS>
+</ASSEMBLER_INFO>
